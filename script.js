@@ -1,0 +1,8 @@
+const perguntas = [
+  {
+   enunciado: " ",
+    alternativas: 
+
+    
+  }
+]
